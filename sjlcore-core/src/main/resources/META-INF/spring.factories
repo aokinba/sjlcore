@@ -1,2 +1,2 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-  com.sjl.sjlcore.common.config.CommonConfiguration
+  com.sjl.sjlcore.core.config.CommonConfiguration

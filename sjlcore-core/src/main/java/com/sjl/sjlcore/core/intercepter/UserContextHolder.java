@@ -1,6 +1,6 @@
-package com.sjl.sjlcore.common.intercepter;
+package com.sjl.sjlcore.core.intercepter;
 
-import com.sjl.sjlcore.common.vo.User;
+import com.sjl.sjlcore.core.vo.User;
 
 public class UserContextHolder {
 

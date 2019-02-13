@@ -1,6 +1,6 @@
 package com.sjl.sjlcore.provider.controller;
 
-import com.sjl.sjlcore.common.intercepter.UserContextHolder;
+import com.sjl.sjlcore.core.intercepter.UserContextHolder;
 import javax.servlet.http.HttpServletRequest;
 
 import org.springframework.web.bind.annotation.GetMapping;
